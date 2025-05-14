@@ -1,0 +1,3 @@
+C:\Users\BERAT\source\repos\EmlaciLib\bin\Release\netstandard2.1\publish\EmlaciLib.dll
+C:\Users\BERAT\source\repos\EmlaciLib\bin\Release\netstandard2.1\publish\EmlaciLib.deps.json
+C:\Users\BERAT\source\repos\EmlaciLib\bin\Release\netstandard2.1\publish\EmlaciLib.pdb
